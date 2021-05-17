@@ -1,0 +1,13 @@
+.idea/*
+.settings/
+.classpath
+.project
+out/
+bin/
+**/.DS_Store
+
+*.xml
+**/*.iml
+src/META-INF/MANIFEST.MF
+
+ProjectBase/
